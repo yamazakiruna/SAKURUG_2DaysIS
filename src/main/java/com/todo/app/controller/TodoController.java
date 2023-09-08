@@ -59,7 +59,7 @@ public class TodoController {
     
     /**
      * 課題削除（一括）
-     * @return
+     * @return なし
      */
     @RequestMapping("/delete")
     public String delete() {
